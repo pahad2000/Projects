@@ -1,0 +1,3 @@
+oneline
+two
+thirdline
