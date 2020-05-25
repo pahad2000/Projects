@@ -1,2 +1,2 @@
 # Projects
-Implementation of a simple UNIX-based shell in C 
+Implementation of a simple shell in C 
